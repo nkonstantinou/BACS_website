@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nikos Konstantinou
 
 # Full Name (for SEO)
 first_name: Nelson
