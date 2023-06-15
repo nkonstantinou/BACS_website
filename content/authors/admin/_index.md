@@ -15,27 +15,30 @@ role: Associate Professor of Cognitive Neuroscience
 # Organizations/Affiliations
 organizations:
   - name: Cyprus University of Technology
-    url: ''
+    url: 'https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include attention, working memory, and perception.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Working Memory
+  - Attention
+  - Perception
+  - Brain Stimulation (TMS)
+  - Neuroimaging (MRI)
+  - Neurorehabilitation
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Cognitive Neuroscience
+      institution: University College London
+      year: 2011
+    - course: MA in Cognitive/Developmental/Educational Psychology
+      institution: University of Cyprus
+      year: 2007
+    - course: BA in Psychology
+      institution: Louisiana State University
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +47,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:nikos.konstantinou@cut.ac.cy'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/n_konstantinou
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nkonstantinou
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +75,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nikos Konstantinou heads the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
