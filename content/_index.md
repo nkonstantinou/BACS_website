@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        BACS
+        Brain and Cognitive Science 
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Brain and Cognitive Science Research Group** has been a center of excellence for Cognitive Neuroscience research, teaching, and practice since its founding in 2018.
+        The **BaCS Research Group** has been a center of excellence for Cognitive Neuroscience research, teaching, and practice since its founding in 2018.
   
   - block: collection
     content:
