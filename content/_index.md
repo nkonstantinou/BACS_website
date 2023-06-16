@@ -10,7 +10,7 @@ sections:
       title: |
         Brain and Cognitive Science 
       image:
-        filename: welcome.jpg
+        filename: RehabilitationClinic.jpg
       text: |
         <br>
         
