@@ -17,7 +17,7 @@ superuser: false
 #- Conduct Disorder (CD)
 
 # Role/position
-role: Collaborators
+role: Professor of Developmental Psychopathology
 
 # Organizations/Affiliations
 organizations:

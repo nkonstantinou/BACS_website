@@ -17,7 +17,7 @@ superuser: false
 #- vstm
 
 # Role/position
-role: Collaborators
+role: Professor of Psychology and Brain Sciences
 
 # Organizations/Affiliations
 organizations:

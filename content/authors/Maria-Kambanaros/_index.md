@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Collaborators
+role: Professor of Speech Pathology
 
 # Organizations/Affiliations
 organizations:

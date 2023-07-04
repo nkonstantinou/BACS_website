@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Grad Students
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
