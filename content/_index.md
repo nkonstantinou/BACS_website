@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Brain and Cognitive Science
+        BaCS Research Group
       image:
         filename: RehabilitationClinic.jpg
       text: |
         <br>
         
-        The **BaCS Research Group** is housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus.  
+        We are housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus.  
   - block: portfolio
     id: projects
     content:
