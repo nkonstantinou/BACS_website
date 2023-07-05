@@ -5,11 +5,11 @@ tags: ["Psychiatric", "Cognitive"]
 date: "2019-08-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
-image:
-  caption: 
-  focal_point: 
+#image:
+#  caption: 
+#  focal_point: 
 
 # links:
 # - icon: twitter

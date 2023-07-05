@@ -20,8 +20,8 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: 
-      text: We study cognitive function in `healthy`, `neurological`, and `psychiatric` populations  using `behavioural experiments`, `neuroimaging` and `brain stimulation`
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
         folders:
@@ -57,9 +57,9 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose a listing view
-      view: compact
+      view: Compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ---
