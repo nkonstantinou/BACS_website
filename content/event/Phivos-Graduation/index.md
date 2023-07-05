@@ -1,7 +1,7 @@
 ---
 title: Phivos Phylactou Graduates
 
-event: Wowchemy Conference
+event: Phivos Phylactou's PhD Graduation
 event_url: #https://example.org
 
 location: Cyprus University of Technology
@@ -13,22 +13,16 @@ address:
   country: #United States
 
 summary: Celebrating the Success of Phivos Phylactou
-abstract: 'We are thrilled to announce that our very own Phivos Phylactou has successfully completed his PhD! This is a significant milestone in Phivos' academic journey, and we couldn't be more proud of his accomplishments.
-
-Phivos's research has been instrumental in advancing our understanding of visual working memory. His dissertation, titled "Exploring the Sensory Recruitment Framework" has made substantial contributions to the field and has set a high standard for future research.
-
-Throughout his time at our lab, Phivos has demonstrated exceptional dedication, perseverance, and intellectual curiosity. His innovative thinking and rigorous approach to research have not only contributed to his personal success but have also greatly enriched our lab's academic environment.
-
-We are confident that Phivos will continue to make significant contributions to his field and look forward to seeing his future endeavors. As he embarks on the next chapter of his career, we extend our heartfelt congratulations and best wishes.'
+abstract: We are thrilled to announce that our very own Phivos Phylactou has successfully completed his PhD! This is a significant milestone in Phivos' academic journey, and we couldn't be more proud of his accomplishments. Phivos's research has been instrumental in advancing our understanding of visual working memory. His dissertation, titled "Exploring the Sensory Recruitment Framework" has made substantial contributions to the field and has set a high standard for future research. Throughout his time at our lab, Phivos has demonstrated exceptional dedication, perseverance, and intellectual curiosity. His innovative thinking and rigorous approach to research have not only contributed to his personal success but have also greatly enriched our lab's academic environment. We are confident that Phivos will continue to make significant contributions to his field and look forward to seeing his future endeavors. As he embarks on the next chapter of his career, we extend our heartfelt congratulations and best wishes.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2023-06-01T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-07-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -37,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: #'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
@@ -59,11 +53,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
