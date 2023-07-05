@@ -14,18 +14,17 @@ sections:
       text: |
         <br>
         
-        The **BaCS Research Group** is housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus.
-  
+        The **BaCS Research Group** is housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus.  
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       subtitle: #My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: "We study cognitive function in `healthy`, `neurological`, and `psychiatric` populations  using `behavioural experiments`, `neuroimaging` and `brain stimulation`"
       filters:
         # Folders to display content from
         folders:
-          - project
+          - projects
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
@@ -59,7 +58,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # Choose a listing view
-      view: card
+      view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 ---
