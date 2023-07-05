@@ -20,7 +20,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: My subtitle
+      subtitle: #My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
@@ -53,13 +53,13 @@ sections:
         - name: Neurological
           tag: Neurological
         - name: Psychiatric
-          tag: Psychiatric
+          tag: Psychiatric          
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # Choose a listing view
-      view: Compact
+      view: card
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ---

@@ -7,8 +7,8 @@ main:
   #- name: Home
   #  url: home
   #  weight: 5
-  - name: Tour
-    url: tour
+  - name: Projects
+    url: projects
     weight: 10
   - name: News
     url: post
