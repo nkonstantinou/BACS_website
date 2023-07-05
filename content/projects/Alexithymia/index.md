@@ -14,6 +14,8 @@ image:
   caption: 
   focal_point: 
 
+authors: [Georgia Panayiotou, admin]
+
 # links:
 # - icon: twitter
 #  icon_pack: fab

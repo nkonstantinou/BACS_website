@@ -11,6 +11,8 @@ image:
   caption: 
   focal_point: 
 
+authors: [Kostas Fanti, admin]
+
 # links:
 # - icon: twitter
 #  icon_pack: fab

@@ -11,6 +11,8 @@ image:
   caption: 
   focal_point: 
 
+authors: [Maria Karekla, admin]
+
 # links:
 # - icon: twitter
 #  icon_pack: fab
