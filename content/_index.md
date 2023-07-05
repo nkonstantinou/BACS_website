@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Brain and Cognitive Science 
+        Brain and Cognitive Science
       image:
         filename: RehabilitationClinic.jpg
       text: |
         <br>
         
-        The **BaCS Research Group** has been a center of excellence for Cognitive Neuroscience research, teaching, and practice since its founding in 2018.
+        The **BaCS Research Group** is housed at the `Rehabilitation Clinic` of the Department of Rehabilitation Sciences at the Cyprus University of Technology, Limassol, Cyprus.
   
   - block: portfolio
     id: projects
@@ -48,10 +48,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Cognitive
+          tag: Cognitive
+        - name: Neurological
+          tag: Neurological
+        - name: Psychiatric
+          tag: Psychiatric
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
