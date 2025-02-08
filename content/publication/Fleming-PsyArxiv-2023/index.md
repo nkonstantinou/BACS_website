@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Integrated Information Theory of Consciousness as Pseudoscience."
-authors: [Fleming, S., Frith, C., Goodale, M., Lau, H., LeDoux, J. E., Lee, A. L., ... & Slagter, H. A.]
-date: 2023-09-16T17:50:20+03:00
-doi: "https://doi.org/10.31234/osf.io/zsr78 "
+authors: [Fleming, S. and others]
+date: 2023-09-19T17:27:22+03:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-09-16T17:50:20+03:00
+publishDate: 2023-09-19T17:27:22+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2023-09-16T17:50:20+03:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PsyArxiv"
+publication: ""
 publication_short: ""
 
-abstract: "The media, including news articles in both Nature and Science, have recently celebrated the Integrated Information Theory (IIT) as a ‘leading’ and empirically tested theory of consciousness. We are writing as researchers with some relevant expertise to express our concerns."
+abstract: "The media, including news articles in both Nature and Science, have recently celebrated the Integrated Information Theory (IIT) as a ‘leading’ and empirically tested theory of consciousness. We are writing as researchers with some relevant expertise to express our concerns.."
 
 # Summary. An optional shortened abstract.
 summary: ""
