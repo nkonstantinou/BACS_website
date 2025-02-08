@@ -7,20 +7,19 @@ date: 2023-09-16T17:50:20+03:00
 doi: "https://doi.org/10.31234/osf.io/zsr78 "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-12T17:50:20+03:00
+publishDate: 2023-09-16T17:50:20+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "PsyArxiv"
 publication_short: ""
 
-abstract: "The media, including news articles in both Nature and Science, have recently celebrated the Integrated
-Information Theory (IIT) as a ‘leading’ and empirically tested theory of consciousness. We are writing as researchers with some relevant expertise to express our concerns."
+abstract: "The media, including news articles in both Nature and Science, have recently celebrated the Integrated Information Theory (IIT) as a ‘leading’ and empirically tested theory of consciousness. We are writing as researchers with some relevant expertise to express our concerns."
 
 # Summary. An optional shortened abstract.
 summary: ""
