@@ -1,0 +1,5 @@
+@article{fleming2023integrated,
+  title={The integrated information theory of consciousness as pseudoscience},
+  author={Fleming, Stephen and Frith, Chris and Goodale, Mel and Lau, Hakwan and LeDoux, Joseph E and Lee, Alan LF and Michel, Matthias and Owen, Adrian and Peters, Megan AK and Slagter, Heleen A},
+  publisher={PsyArXiv}
+}
