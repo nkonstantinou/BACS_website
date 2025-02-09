@@ -4,7 +4,7 @@
 title: "A 12-week in-phase bilateral upper limb exercise protocol promoted neuroplastic and clinical changes in people with relapsing remitting multiple sclerosis: A registered report randomized single-case concurrent multiple baseline study"
 authors: [Sokratous, D., Charalambous, C. C., Zamba—Papanicolaou, E., Michailidou, K., Konstantinou, N.]
 date: 2024-09-11T17:27:22+03:00
-doi: "ps://doi.org/10.1371/journal.pone.0299611"
+doi: "doi.org/10.1371/journal.pone.0299611"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-09-11T17:27:22+03:00
