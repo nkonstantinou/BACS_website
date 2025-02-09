@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A comparative analysis of colour–emotion associations in 16–88-year-old adults from 31 countries"
-authors: [Jonauskaite, D and others]
+authors: [Jonauskaite D, and others]
 date: 2024-09-19T17:27:22+03:00
 doi: "10.1111/bjop.12687"
 
