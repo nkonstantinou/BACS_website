@@ -72,7 +72,3 @@ email: ""
 user_groups:
 - Grad Students
 ---
-
-Elena Frixou is a Registered School Psychologist and a dedicated mental health therapist for children and adolescents. She completed her studies at the University of Cyprus and conducted her clinical internship at the Educational Psychology Service of the Ministry of Education and Culture of Cyprus.
- 
-With a strong background in psychometrics and diagnostic evaluation, Elena provides tailored psychological interventions, counseling for parents and adolescents, prevention programs, and informative psychoeducation seminars. Her earlier research focused on bullying, trauma, and resilience, while her current interests revolve around unraveling the complex interplay between cognitive abilities and academic achievement. Elena envisions her research influencing educational policies and practices, addressing achievement gaps and promoting children's academic success. Through her expertise and dedication, she strives to make meaningful contributions to the fields of cognitive development and education.
