@@ -4,7 +4,7 @@
 title: "Advancing working memory research through cortico-cortical transcranial magnetic stimulation"
 authors: [Phylactou P, Konstantinou N, Ester EF]
 date: 2025-01-19T17:27:22+03:00
-doi: "10.1002/ejp.4734"
+doi: "10.3389/fnhum.2024.1504783"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-12-09T17:27:22+03:00
