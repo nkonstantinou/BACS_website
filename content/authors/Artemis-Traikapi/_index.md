@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Clinical Neuropsychologist
 
 # Organizations/Affiliations
 organizations:
