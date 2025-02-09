@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Neural correlates of pain acceptance and the role of the cerebellum: Functional connectivity and anatomical differences in individuals with headaches versus matched controls"
-authors: [Vasiliou, V. S., Konstantinou, N., Christou, Y., Papacostas, S., Constantinidou, F., Heracleous, E., Seimenis, I., Karekla, M.]
+authors: [Vasiliou V S, Konstantinou N, Christou Y, Papacostas S, Constantinidou F, Heracleous E, Seimenis I, Karekla M]
 date: 2025-01-19T17:27:22+03:00
 doi: "10.1002/ejp.4734"
 
