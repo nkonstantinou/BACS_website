@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Elena is a Registered School Psychologist working towards her PhD 
+bio: Anastasia is a Registered Occupational Therapist working towards her PhD 
 
 interests:
 - School Psychology
