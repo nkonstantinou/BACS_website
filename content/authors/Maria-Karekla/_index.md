@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Clinical Psychology
+role: Professor of Clinical Psychology
 
 # Organizations/Affiliations
 organizations:
