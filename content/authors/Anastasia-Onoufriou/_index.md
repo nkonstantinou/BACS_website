@@ -25,7 +25,11 @@ organizations:
 bio: Anastasia is a Registered Occupational Therapist working towards her PhD 
 
 interests:
-- School Psychology
+- Cognitive neuroscience
+- Neurodegeneration
+- Eye tracking
+- Behavioral neuroscience
+- School participation and daily functioning in children
 - Cognition and academic achievemnt 
 - Diagnostic evaluation
 
@@ -48,7 +52,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:elena.frixou@outlook.com
+  link: mailto:anc.onoufriou@edu.cut.ac.cy
 - icon: twitter
   icon_pack: fab
   link: # https://twitter.com/phivph
@@ -72,3 +76,10 @@ email: ""
 user_groups:
 - Grad Students
 ---
+Anastasia Onoufriou holds a Bachelor’s degree in Occupational Therapy from the University of West Attica and an MSc in Neuroscience from the Cyprus Institute of Neurology and Genetics. Recognizing that occupational therapy is deeply rooted in the principles of neuroplasticity, she developed a strong interest in understanding brain structure and function, which led her to pursue postgraduate studies in neuroscience. She is currently a PhD candidate at the Neurorehabilitation Department of the Cyprus University of Technology, focusing on cognitive neuroscience. Her research interests primarily revolve around cognition, attention, memory, and distractibility.
+
+During her MSc studies, Anastasia explored a variety of neurodegenerative disorders, including Multiple Sclerosis, Parkinson’s disease, Alzheimer’s disease, and Huntington’s disease. Her master’s thesis specifically examined the implications of Type 2 diabetes in the progression and development of Alzheimer’s disease.
+
+Anastasia has over three years of professional experience as a pediatric occupational therapist in private practice, in addition to clinical training during her undergraduate studies. She completed her clinical placements in inclusive educational settings and at a Specialized Therapeutic Unit for Autism. She is a registered occupational therapist (registration number 223) and an active member of the Pancyprian Society of Occupational Therapy.
+
+Throughout her career, she has participated in numerous seminars with main topics being Autism Spectrum Disorders (ASD) and Attention-Deficit/Hyperactivity Disorder (ADHD), gaining expertise in evidence-based approaches. Additionally, she has completed supervisory training seminars, further enhancing her clinical expertise and teaching capabilities.
